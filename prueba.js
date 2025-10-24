@@ -20,11 +20,11 @@
 // Ejercicio 3:
 // Diseña un algoritmo que cuente las veces que aparece una determinada letra en una frase.
 
-    Inicio
-        Leer frase
-        leer letra
+    // Inicio
+    //     Leer frase
+    //     leer letra
 
-        contarletra => frase, letra
-        cont=cont+1
-    Fin
+    //     contarletra => frase, letra
+    //     cont=cont+1
+    // Fin
 
